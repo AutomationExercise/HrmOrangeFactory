@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="15" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-24T12:33:29 EDT" name="Surefire suite" finished-at="2022-05-24T12:34:31 EDT" duration-ms="62338">
+    <groups>
+    </groups>
+    <test started-at="2022-05-24T12:33:29 EDT" name="Surefire test" finished-at="2022-05-24T12:34:31 EDT" duration-ms="62338">
+      <class name="com.mil.testCases.LoginPageTest">
+        <test-method is-config="true" signature="setLogger()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:33:57 EDT" name="setLogger" finished-at="2022-05-24T12:33:57 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLogger -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:33:57 EDT" name="setUp" finished-at="2022-05-24T12:33:59 EDT" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:1, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:33:59 EDT" name="verifyLoginPageTitleTest" finished-at="2022-05-24T12:33:59 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:33:59 EDT" name="tearDown" finished-at="2022-05-24T12:33:59 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:33:59 EDT" name="setUp" finished-at="2022-05-24T12:34:02 EDT" duration-ms="2535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLogoHrmOrange()[pri:2, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:02 EDT" name="validateLogoHrmOrange" finished-at="2022-05-24T12:34:02 EDT" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoHrmOrange -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:02 EDT" name="tearDown" finished-at="2022-05-24T12:34:02 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:03 EDT" name="setUp" finished-at="2022-05-24T12:34:06 EDT" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:3, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:06 EDT" name="verifylogin" data-provider="provideTestData" finished-at="2022-05-24T12:34:07 EDT" duration-ms="1665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:07 EDT" name="tearDown" finished-at="2022-05-24T12:34:07 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:07 EDT" name="setUp" finished-at="2022-05-24T12:34:10 EDT" duration-ms="2631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:3, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:10 EDT" name="verifylogin" data-provider="provideTestData" finished-at="2022-05-24T12:34:12 EDT" duration-ms="2334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:12 EDT" name="setUp" finished-at="2022-05-24T12:34:15 EDT" duration-ms="3290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:12 EDT" name="tearDown" finished-at="2022-05-24T12:34:12 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:3, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:15 EDT" name="verifylogin" data-provider="provideTestData" finished-at="2022-05-24T12:34:17 EDT" duration-ms="1181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin124]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.LoginPageTest@4fe767f3]" started-at="2022-05-24T12:34:17 EDT" name="tearDown" finished-at="2022-05-24T12:34:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mil.testCases.LoginPageTest -->
+      <class name="com.mil.testCases.MyInfoPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.MyInfoPageTest@2805c96b]" started-at="2022-05-24T12:34:17 EDT" name="setUp" finished-at="2022-05-24T12:34:23 EDT" duration-ms="6484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.MyInfoPageTest@2805c96b]" started-at="2022-05-24T12:34:23 EDT" name="setUp" finished-at="2022-05-24T12:34:30 EDT" duration-ms="6445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="personalDetailsDisplayTest()[pri:1, instance:com.mil.testCases.MyInfoPageTest@2805c96b]" started-at="2022-05-24T12:34:30 EDT" name="personalDetailsDisplayTest" finished-at="2022-05-24T12:34:30 EDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalDetailsDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.MyInfoPageTest@2805c96b]" started-at="2022-05-24T12:34:30 EDT" name="tearDown" finished-at="2022-05-24T12:34:31 EDT" duration-ms="1498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mil.testCases.MyInfoPageTest -->
+      <class name="com.mil.testCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:29 EDT" name="setUp" finished-at="2022-05-24T12:33:36 EDT" duration-ms="7340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnMyInfoTabTest()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:36 EDT" name="clickOnMyInfoTabTest" finished-at="2022-05-24T12:33:37 EDT" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMyInfoTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:37 EDT" name="tearDown" finished-at="2022-05-24T12:33:38 EDT" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:38 EDT" name="setUp" finished-at="2022-05-24T12:33:42 EDT" duration-ms="3903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:42 EDT" name="verifyHomePageTitleTest" finished-at="2022-05-24T12:33:42 EDT" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:42 EDT" name="tearDown" finished-at="2022-05-24T12:33:42 EDT" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:42 EDT" name="setUp" finished-at="2022-05-24T12:33:46 EDT" duration-ms="4316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNameDisplayTest()[pri:2, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:46 EDT" name="verifyNameDisplayTest" finished-at="2022-05-24T12:33:47 EDT" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:47 EDT" name="tearDown" finished-at="2022-05-24T12:33:47 EDT" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:47 EDT" name="setUp" finished-at="2022-05-24T12:33:51 EDT" duration-ms="4346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDashboardDisplayTest()[pri:3, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:51 EDT" name="verifyDashboardDisplayTest" finished-at="2022-05-24T12:33:52 EDT" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:52 EDT" name="tearDown" finished-at="2022-05-24T12:33:52 EDT" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:52 EDT" name="setUp" finished-at="2022-05-24T12:33:56 EDT" duration-ms="4021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMyInfoDisplayTest()[pri:4, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:56 EDT" name="verifyMyInfoDisplayTest" finished-at="2022-05-24T12:33:56 EDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyInfoDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@6ab7a896]" started-at="2022-05-24T12:33:56 EDT" name="tearDown" finished-at="2022-05-24T12:33:57 EDT" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mil.testCases.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

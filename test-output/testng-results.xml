@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-24T12:25:32 EDT" name="Default suite" finished-at="2022-05-24T12:26:00 EDT" duration-ms="28222">
+    <groups>
+    </groups>
+    <test started-at="2022-05-24T12:25:32 EDT" name="Default test" finished-at="2022-05-24T12:26:00 EDT" duration-ms="28222">
+      <class name="com.mil.testCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:32 EDT" name="setUp" finished-at="2022-05-24T12:25:39 EDT" duration-ms="7437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnMyInfoTabTest()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:39 EDT" name="clickOnMyInfoTabTest" finished-at="2022-05-24T12:25:40 EDT" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMyInfoTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:40 EDT" name="tearDown" finished-at="2022-05-24T12:25:41 EDT" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:41 EDT" name="setUp" finished-at="2022-05-24T12:25:45 EDT" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:45 EDT" name="verifyHomePageTitleTest" finished-at="2022-05-24T12:25:45 EDT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:45 EDT" name="tearDown" finished-at="2022-05-24T12:25:46 EDT" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:46 EDT" name="setUp" finished-at="2022-05-24T12:25:50 EDT" duration-ms="4374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNameDisplayTest()[pri:2, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:50 EDT" name="verifyNameDisplayTest" finished-at="2022-05-24T12:25:50 EDT" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:50 EDT" name="tearDown" finished-at="2022-05-24T12:25:50 EDT" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:50 EDT" name="setUp" finished-at="2022-05-24T12:25:54 EDT" duration-ms="4035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDashboardDisplayTest()[pri:3, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:54 EDT" name="verifyDashboardDisplayTest" finished-at="2022-05-24T12:25:55 EDT" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:55 EDT" name="tearDown" finished-at="2022-05-24T12:25:55 EDT" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:55 EDT" name="setUp" finished-at="2022-05-24T12:25:59 EDT" duration-ms="4361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMyInfoDisplayTest()[pri:4, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:59 EDT" name="verifyMyInfoDisplayTest" finished-at="2022-05-24T12:25:59 EDT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyInfoDisplayTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.testCases.HomePageTest@dbf57b3]" started-at="2022-05-24T12:25:59 EDT" name="tearDown" finished-at="2022-05-24T12:26:00 EDT" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mil.testCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
